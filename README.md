@@ -1,4 +1,4 @@
-Datewise Chapter and Modules
+## Datewise Chapter and Modules ##
 19 August 2023 -Python Basics - (Types of Data, String Functions)
 20 August 2023 - Python Basic Data Types - (List, List Functions)
 2 September 2023 - Operators
