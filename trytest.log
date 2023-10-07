@@ -1,0 +1,41 @@
+INFO:root:This is a start of my program
+INFO:root:Asking user to enter the age
+INFO:root:User has entered the age
+INFO:root:I am checking negative condition
+ERROR:root:Negative Age Error
+INFO:root:This is a start of my program
+INFO:root:Asking user to enter the age
+INFO:root:User has entered the age
+INFO:root:I am checking underage condition
+ERROR:root:User is underage
+INFO:root:This is a start of my program
+INFO:root:Asking user to enter the age
+INFO:root:User has entered the age
+INFO:root:OK TO PURCHASE
+INFO:root:This is a start of my program
+INFO:root:Asking user to enter the age
+INFO:root:User has entered the age = -222
+INFO:root:I am checking negative condition
+ERROR:root:Negative Age Error
+INFO:root:This is a start of my program
+INFO:root:Asking user to enter the age
+INFO:root:User has entered the age = -9
+INFO:root:I am checking negative condition
+ERROR:root:Negative Age Error
+INFO:root:This is a start of my program
+INFO:root:Asking user to enter the age
+INFO:root:User has entered the age = 67
+INFO:root:OK TO PURCHASE
+2023-09-30 18:12:04,407
+2023-09-30 18:12:04,407
+2023-09-30 18:12:08,461
+2023-09-30 18:12:08,461
+2023-09-30 18:13:50,584- This is a start of my program
+2023-09-30 18:13:50,586- Asking user to enter the age
+2023-09-30 18:13:53,117- User has entered the age = 23
+2023-09-30 18:13:53,117- OK TO PURCHASE
+2023-09-30 18:16:28,078- INFO - This is a start of my program 
+2023-09-30 18:16:28,079- INFO - Asking user to enter the age 
+2023-09-30 18:16:31,528- INFO - User has entered the age = -33 
+2023-09-30 18:16:31,529- INFO - I am checking negative condition 
+2023-09-30 18:16:31,529- ERROR - Negative Age Error 

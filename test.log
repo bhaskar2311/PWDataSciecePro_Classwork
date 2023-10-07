@@ -1,0 +1,9 @@
+INFO:root:store a msg
+WARNING:root:This is a warning
+ERROR:root:This is a error
+CRITICAL:root:This is critical
+INFO:root:This is a start of my program
+INFO:root:Asking user to enter the age
+INFO:root:User has entered the age
+INFO:root:I am checking negative condition
+ERROR:root:Negative Age Error
