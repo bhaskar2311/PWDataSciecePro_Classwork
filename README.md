@@ -12,3 +12,5 @@
 30 September 2023 - Exception Handling and Logging
 1 October 2023 - Python OOPS - Basics - Classes and Objects
 7 October 2023 - Python OOPS - Inheritance - Baics(Multilevel, Multiple)
+
+29 October 2023 - DSA - Arrays - LinearSearch, Asymptotic Notations, Time and Space Complexity
