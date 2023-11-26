@@ -14,3 +14,5 @@
 7 October 2023 - Python OOPS - Inheritance - Baics(Multilevel, Multiple)
 
 29 October 2023 - DSA - Arrays - LinearSearch, Asymptotic Notations, Time and Space Complexity
+4 November 2023 - DSA - Recursion
+5 November 2023 - DSA - Recurrence Relation
